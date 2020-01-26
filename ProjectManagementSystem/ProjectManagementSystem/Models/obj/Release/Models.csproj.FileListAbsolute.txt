@@ -1,0 +1,22 @@
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\bin\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\bin\Release\Models.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\obj\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\obj\Release\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Release\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Release\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Release\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.csprojAssemblyReference.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Release\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Release\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.csprojAssemblyReference.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Release\Models.pdb

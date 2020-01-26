@@ -1,0 +1,88 @@
+{
+  "Roles": [
+    {
+      "RoleID": 1,
+      "RoleName": "Enquiry Management",
+      "Editable": false,
+      "Deletable": true,
+      "Viewable": false
+    },
+    {
+      "RoleID": 2,
+      "RoleName": "asdasd",
+      "Viewable": true,
+      "Deletable": true,
+      "Editable": true
+    },
+    {
+      "RoleID": 3,
+      "RoleName": "asdasd",
+      "Viewable": true,
+      "Deletable": false,
+      "Editable": true
+    },
+    {
+      "RoleID": 4,
+      "RoleName": "asdasd",
+      "Viewable": true,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 5,
+      "RoleName": "sad3r423423423ghjghmbnm",
+      "Viewable": true,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 6,
+      "RoleName": "54561adsadasdasd",
+      "Viewable": true,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 7,
+      "RoleName": "shameeem",
+      "Viewable": true,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 8,
+      "RoleName": "",
+      "Viewable": false,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 9,
+      "RoleName": "",
+      "Viewable": false,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 10,
+      "RoleName": "asdasdaqw3eq",
+      "Viewable": false,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 11,
+      "RoleName": "sadasdasdasdsadasd",
+      "Viewable": false,
+      "Deletable": false,
+      "Editable": false
+    },
+    {
+      "RoleID": 12,
+      "RoleName": "aaa",
+      "Viewable": false,
+      "Deletable": false,
+      "Editable": false
+    }
+  ]
+}

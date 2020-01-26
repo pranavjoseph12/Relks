@@ -1,0 +1,50 @@
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Release\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Release\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Release\Models.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\obj\Release\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Newtonsoft.Json.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Newtonsoft.Json.xml
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\BusinessLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\BusinessLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\DatabaseLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Newtonsoft.Json.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\DatabaseLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Newtonsoft.Json.xml
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\EPPlus.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\EPPlus.xml
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\DatabaseLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\EPPlus.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Newtonsoft.Json.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\DatabaseLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\EPPlus.xml
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Release\Newtonsoft.Json.xml
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Release\BusinessLayer.pdb

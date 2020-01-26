@@ -1,0 +1,41 @@
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Debug\Models.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Debug\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

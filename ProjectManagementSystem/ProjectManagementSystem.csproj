@@ -1,0 +1,715 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6145A740-6EF1-4CC7-8EB6-F3D6765143F8}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjectManagementSystem</RootNamespace>
+    <AssemblyName>ProjectManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>ExternalReferences\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AddCustomer.aspx" />
+    <Content Include="AddEnquiry.aspx" />
+    <Content Include="AddOtherActivity.aspx" />
+    <Content Include="AddProject.aspx" />
+    <Content Include="AddRole.aspx" />
+    <Content Include="Admin.aspx" />
+    <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="bootstrap\js\npm.js" />
+    <Content Include="css\custom.css" />
+    <Content Include="css\login.css" />
+    <Content Include="Customers.aspx" />
+    <Content Include="CustomerService.asmx" />
+    <Content Include="dash_board.html" />
+    <Content Include="dist\css\AdminLTE.min.css" />
+    <Content Include="dist\css\skins\_all-skins.min.css" />
+    <Content Include="dist\img\user2-160x160.jpg" />
+    <Content Include="dist\js\app.js" />
+    <Content Include="dist\js\app.min.js" />
+    <Content Include="dist\js\demo.js" />
+    <Content Include="dist\js\pages\dashboard.js" />
+    <Content Include="dist\js\pages\dashboard2.js" />
+    <Content Include="EditProject.aspx" />
+    <Content Include="EditRole.aspx" />
+    <Content Include="Enquiries.aspx" />
+    <Content Include="EnquiryService.asmx" />
+    <Content Include="Expense.aspx" />
+    <Content Include="ExpenseService.asmx" />
+    <Content Include="ExternalReferences\Models.dll" />
+    <Content Include="ExternalReferences\Models.pdb" />
+    <Content Include="ExternalReferences\Newtonsoft.Json.dll" />
+    <Content Include="ExternalReferences\Newtonsoft.Json.xml" />
+    <Content Include="Home.aspx" />
+    <Content Include="images\company-logo.png" />
+    <Content Include="images\irs_logo.png" />
+    <Content Include="images\Loader.gif" />
+    <Content Include="images\logarea_back.png" />
+    <Content Include="images\login_back.jpg" />
+    <Content Include="images\login_logo.png" />
+    <Content Include="Login.aspx" />
+    <Content Include="NotificationService.asmx" />
+    <Content Include="OtherActivities.aspx" />
+    <Content Include="OtherActivityService.asmx" />
+    <Content Include="PersonalExpense.aspx" />
+    <Content Include="plugins\bootstrap-slider\bootstrap-slider.js" />
+    <Content Include="plugins\bootstrap-slider\slider.css" />
+    <Content Include="plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.min.js" />
+    <Content Include="plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.css" />
+    <Content Include="plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.js" />
+    <Content Include="plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.min.css" />
+    <Content Include="plugins\chartjs\Chart.js" />
+    <Content Include="plugins\chartjs\Chart.min.js" />
+    <Content Include="plugins\colorpicker\bootstrap-colorpicker.css" />
+    <Content Include="plugins\colorpicker\bootstrap-colorpicker.js" />
+    <Content Include="plugins\colorpicker\bootstrap-colorpicker.min.css" />
+    <Content Include="plugins\colorpicker\bootstrap-colorpicker.min.js" />
+    <Content Include="plugins\colorpicker\img\alpha-horizontal.png" />
+    <Content Include="plugins\colorpicker\img\alpha.png" />
+    <Content Include="plugins\colorpicker\img\hue-horizontal.png" />
+    <Content Include="plugins\colorpicker\img\hue.png" />
+    <Content Include="plugins\colorpicker\img\saturation.png" />
+    <Content Include="plugins\datatables\dataTables.bootstrap.css" />
+    <Content Include="plugins\datatables\dataTables.bootstrap.js" />
+    <Content Include="plugins\datatables\images\sort_asc.png" />
+    <Content Include="plugins\datatables\images\sort_asc_disabled.png" />
+    <Content Include="plugins\datatables\images\sort_both.png" />
+    <Content Include="plugins\datatables\images\sort_desc.png" />
+    <Content Include="plugins\datatables\images\sort_desc_disabled.png" />
+    <Content Include="plugins\datatables\jquery.dataTables.js" />
+    <Content Include="plugins\datepicker\bootstrap-datepicker.js" />
+    <Content Include="plugins\datepicker\datepicker3.css" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ar.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.az.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.bg.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ca.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.cs.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.cy.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.da.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.de.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.el.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.es.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.et.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.fa.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.fi.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.fr.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.gl.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.he.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.hr.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.hu.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.id.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.is.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.it.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ja.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ka.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.kk.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.kr.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.lt.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.lv.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.mk.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ms.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.nb.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.nl-BE.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.nl.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.no.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.pl.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.pt-BR.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.pt.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ro.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.rs-latin.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.rs.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ru.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.sk.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.sl.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.sq.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.sv.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.sw.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.th.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.tr.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.ua.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.vi.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.zh-CN.js" />
+    <Content Include="plugins\datepicker\locales\bootstrap-datepicker.zh-TW.js" />
+    <Content Include="plugins\daterangepicker\daterangepicker-bs3.css" />
+    <Content Include="plugins\daterangepicker\daterangepicker.js" />
+    <Content Include="plugins\fastclick\fastclick.js" />
+    <Content Include="plugins\fastclick\fastclick.min.js" />
+    <Content Include="plugins\flot\excanvas.js" />
+    <Content Include="plugins\flot\excanvas.min.js" />
+    <Content Include="plugins\flot\jquery.colorhelpers.js" />
+    <Content Include="plugins\flot\jquery.colorhelpers.min.js" />
+    <Content Include="plugins\flot\jquery.flot.canvas.js" />
+    <Content Include="plugins\flot\jquery.flot.canvas.min.js" />
+    <Content Include="plugins\flot\jquery.flot.categories.js" />
+    <Content Include="plugins\flot\jquery.flot.categories.min.js" />
+    <Content Include="plugins\flot\jquery.flot.crosshair.js" />
+    <Content Include="plugins\flot\jquery.flot.crosshair.min.js" />
+    <Content Include="plugins\flot\jquery.flot.errorbars.js" />
+    <Content Include="plugins\flot\jquery.flot.errorbars.min.js" />
+    <Content Include="plugins\flot\jquery.flot.fillbetween.js" />
+    <Content Include="plugins\flot\jquery.flot.fillbetween.min.js" />
+    <Content Include="plugins\flot\jquery.flot.image.js" />
+    <Content Include="plugins\flot\jquery.flot.image.min.js" />
+    <Content Include="plugins\flot\jquery.flot.js" />
+    <Content Include="plugins\flot\jquery.flot.min.js" />
+    <Content Include="plugins\flot\jquery.flot.navigate.js" />
+    <Content Include="plugins\flot\jquery.flot.navigate.min.js" />
+    <Content Include="plugins\flot\jquery.flot.pie.js" />
+    <Content Include="plugins\flot\jquery.flot.pie.min.js" />
+    <Content Include="plugins\flot\jquery.flot.resize.js" />
+    <Content Include="plugins\flot\jquery.flot.resize.min.js" />
+    <Content Include="plugins\flot\jquery.flot.selection.js" />
+    <Content Include="plugins\flot\jquery.flot.selection.min.js" />
+    <Content Include="plugins\flot\jquery.flot.stack.js" />
+    <Content Include="plugins\flot\jquery.flot.stack.min.js" />
+    <Content Include="plugins\flot\jquery.flot.symbol.js" />
+    <Content Include="plugins\flot\jquery.flot.symbol.min.js" />
+    <Content Include="plugins\flot\jquery.flot.threshold.js" />
+    <Content Include="plugins\flot\jquery.flot.threshold.min.js" />
+    <Content Include="plugins\flot\jquery.flot.time.js" />
+    <Content Include="plugins\flot\jquery.flot.time.min.js" />
+    <Content Include="plugins\fullcalendar\fullcalendar.css" />
+    <Content Include="plugins\fullcalendar\fullcalendar.js" />
+    <Content Include="plugins\fullcalendar\fullcalendar.min.css" />
+    <Content Include="plugins\fullcalendar\fullcalendar.min.js" />
+    <Content Include="plugins\fullcalendar\fullcalendar.print.css" />
+    <Content Include="plugins\iCheck\all.css" />
+    <Content Include="plugins\iCheck\flat\aero%402x.png" />
+    <Content Include="plugins\iCheck\flat\aero.css" />
+    <Content Include="plugins\iCheck\flat\aero.png" />
+    <Content Include="plugins\iCheck\flat\blue%402x.png" />
+    <Content Include="plugins\iCheck\flat\blue.css" />
+    <Content Include="plugins\iCheck\flat\blue.png" />
+    <Content Include="plugins\iCheck\flat\flat%402x.png" />
+    <Content Include="plugins\iCheck\flat\flat.css" />
+    <Content Include="plugins\iCheck\flat\flat.png" />
+    <Content Include="plugins\iCheck\flat\green%402x.png" />
+    <Content Include="plugins\iCheck\flat\green.css" />
+    <Content Include="plugins\iCheck\flat\green.png" />
+    <Content Include="plugins\iCheck\flat\grey%402x.png" />
+    <Content Include="plugins\iCheck\flat\grey.css" />
+    <Content Include="plugins\iCheck\flat\grey.png" />
+    <Content Include="plugins\iCheck\flat\orange%402x.png" />
+    <Content Include="plugins\iCheck\flat\orange.css" />
+    <Content Include="plugins\iCheck\flat\orange.png" />
+    <Content Include="plugins\iCheck\flat\pink%402x.png" />
+    <Content Include="plugins\iCheck\flat\pink.css" />
+    <Content Include="plugins\iCheck\flat\pink.png" />
+    <Content Include="plugins\iCheck\flat\purple%402x.png" />
+    <Content Include="plugins\iCheck\flat\purple.css" />
+    <Content Include="plugins\iCheck\flat\purple.png" />
+    <Content Include="plugins\iCheck\flat\red%402x.png" />
+    <Content Include="plugins\iCheck\flat\red.css" />
+    <Content Include="plugins\iCheck\flat\red.png" />
+    <Content Include="plugins\iCheck\flat\yellow%402x.png" />
+    <Content Include="plugins\iCheck\flat\yellow.css" />
+    <Content Include="plugins\iCheck\flat\yellow.png" />
+    <Content Include="plugins\iCheck\flat\_all.css" />
+    <Content Include="plugins\iCheck\futurico\futurico%402x.png" />
+    <Content Include="plugins\iCheck\futurico\futurico.css" />
+    <Content Include="plugins\iCheck\futurico\futurico.png" />
+    <Content Include="plugins\iCheck\icheck.js" />
+    <Content Include="plugins\iCheck\icheck.min.js" />
+    <Content Include="plugins\iCheck\line\aero.css" />
+    <Content Include="plugins\iCheck\line\blue.css" />
+    <Content Include="plugins\iCheck\line\green.css" />
+    <Content Include="plugins\iCheck\line\grey.css" />
+    <Content Include="plugins\iCheck\line\line%402x.png" />
+    <Content Include="plugins\iCheck\line\line.css" />
+    <Content Include="plugins\iCheck\line\line.png" />
+    <Content Include="plugins\iCheck\line\orange.css" />
+    <Content Include="plugins\iCheck\line\pink.css" />
+    <Content Include="plugins\iCheck\line\purple.css" />
+    <Content Include="plugins\iCheck\line\red.css" />
+    <Content Include="plugins\iCheck\line\yellow.css" />
+    <Content Include="plugins\iCheck\line\_all.css" />
+    <Content Include="plugins\iCheck\minimal\aero%402x.png" />
+    <Content Include="plugins\iCheck\minimal\aero.css" />
+    <Content Include="plugins\iCheck\minimal\aero.png" />
+    <Content Include="plugins\iCheck\minimal\blue%402x.png" />
+    <Content Include="plugins\iCheck\minimal\blue.css" />
+    <Content Include="plugins\iCheck\minimal\blue.png" />
+    <Content Include="plugins\iCheck\minimal\green%402x.png" />
+    <Content Include="plugins\iCheck\minimal\green.css" />
+    <Content Include="plugins\iCheck\minimal\green.png" />
+    <Content Include="plugins\iCheck\minimal\grey%402x.png" />
+    <Content Include="plugins\iCheck\minimal\grey.css" />
+    <Content Include="plugins\iCheck\minimal\grey.png" />
+    <Content Include="plugins\iCheck\minimal\minimal%402x.png" />
+    <Content Include="plugins\iCheck\minimal\minimal.css" />
+    <Content Include="plugins\iCheck\minimal\minimal.png" />
+    <Content Include="plugins\iCheck\minimal\orange%402x.png" />
+    <Content Include="plugins\iCheck\minimal\orange.css" />
+    <Content Include="plugins\iCheck\minimal\orange.png" />
+    <Content Include="plugins\iCheck\minimal\pink%402x.png" />
+    <Content Include="plugins\iCheck\minimal\pink.css" />
+    <Content Include="plugins\iCheck\minimal\pink.png" />
+    <Content Include="plugins\iCheck\minimal\purple%402x.png" />
+    <Content Include="plugins\iCheck\minimal\purple.css" />
+    <Content Include="plugins\iCheck\minimal\purple.png" />
+    <Content Include="plugins\iCheck\minimal\red%402x.png" />
+    <Content Include="plugins\iCheck\minimal\red.css" />
+    <Content Include="plugins\iCheck\minimal\red.png" />
+    <Content Include="plugins\iCheck\minimal\yellow%402x.png" />
+    <Content Include="plugins\iCheck\minimal\yellow.css" />
+    <Content Include="plugins\iCheck\minimal\yellow.png" />
+    <Content Include="plugins\iCheck\minimal\_all.css" />
+    <Content Include="plugins\iCheck\polaris\polaris%402x.png" />
+    <Content Include="plugins\iCheck\polaris\polaris.css" />
+    <Content Include="plugins\iCheck\polaris\polaris.png" />
+    <Content Include="plugins\iCheck\square\aero%402x.png" />
+    <Content Include="plugins\iCheck\square\aero.css" />
+    <Content Include="plugins\iCheck\square\aero.png" />
+    <Content Include="plugins\iCheck\square\blue%402x.png" />
+    <Content Include="plugins\iCheck\square\blue.css" />
+    <Content Include="plugins\iCheck\square\blue.png" />
+    <Content Include="plugins\iCheck\square\green%402x.png" />
+    <Content Include="plugins\iCheck\square\green.css" />
+    <Content Include="plugins\iCheck\square\green.png" />
+    <Content Include="plugins\iCheck\square\grey%402x.png" />
+    <Content Include="plugins\iCheck\square\grey.css" />
+    <Content Include="plugins\iCheck\square\grey.png" />
+    <Content Include="plugins\iCheck\square\orange%402x.png" />
+    <Content Include="plugins\iCheck\square\orange.css" />
+    <Content Include="plugins\iCheck\square\orange.png" />
+    <Content Include="plugins\iCheck\square\pink%402x.png" />
+    <Content Include="plugins\iCheck\square\pink.css" />
+    <Content Include="plugins\iCheck\square\pink.png" />
+    <Content Include="plugins\iCheck\square\purple%402x.png" />
+    <Content Include="plugins\iCheck\square\purple.css" />
+    <Content Include="plugins\iCheck\square\purple.png" />
+    <Content Include="plugins\iCheck\square\red%402x.png" />
+    <Content Include="plugins\iCheck\square\red.css" />
+    <Content Include="plugins\iCheck\square\red.png" />
+    <Content Include="plugins\iCheck\square\square%402x.png" />
+    <Content Include="plugins\iCheck\square\square.css" />
+    <Content Include="plugins\iCheck\square\square.png" />
+    <Content Include="plugins\iCheck\square\yellow%402x.png" />
+    <Content Include="plugins\iCheck\square\yellow.css" />
+    <Content Include="plugins\iCheck\square\yellow.png" />
+    <Content Include="plugins\iCheck\square\_all.css" />
+    <Content Include="plugins\input-mask\jquery.inputmask.date.extensions.js" />
+    <Content Include="plugins\input-mask\jquery.inputmask.extensions.js" />
+    <Content Include="plugins\input-mask\jquery.inputmask.js" />
+    <Content Include="plugins\input-mask\jquery.inputmask.numeric.extensions.js" />
+    <Content Include="plugins\input-mask\jquery.inputmask.phone.extensions.js" />
+    <Content Include="plugins\input-mask\jquery.inputmask.regex.extensions.js" />
+    <Content Include="plugins\input-mask\phone-codes\readme.txt" />
+    <Content Include="plugins\ionslider\ion.rangeSlider.css" />
+    <Content Include="plugins\ionslider\ion.rangeSlider.min.js" />
+    <Content Include="plugins\ionslider\ion.rangeSlider.skinFlat.css" />
+    <Content Include="plugins\ionslider\ion.rangeSlider.skinNice.css" />
+    <Content Include="plugins\jQueryUI\jquery-ui-1.10.3.js" />
+    <Content Include="plugins\jQueryUI\jquery-ui-1.10.3.min.js" />
+    <Content Include="plugins\jQuery\jQuery-2.1.3.min.js" />
+    <Content Include="plugins\jvectormap\jquery-jvectormap-1.2.2.css" />
+    <Content Include="plugins\jvectormap\jquery-jvectormap-1.2.2.min.js" />
+    <Content Include="plugins\jvectormap\jquery-jvectormap-world-mill-en.js" />
+    <Content Include="plugins\knob\jquery.knob.js" />
+    <Content Include="plugins\morris\morris.css" />
+    <Content Include="plugins\morris\morris.js" />
+    <Content Include="plugins\morris\morris.min.js" />
+    <Content Include="plugins\pace\pace.js" />
+    <Content Include="plugins\slimScroll\jquery.slimscroll.js" />
+    <Content Include="plugins\slimScroll\jquery.slimscroll.min.js" />
+    <Content Include="plugins\sparkline\jquery.sparkline.js" />
+    <Content Include="plugins\sparkline\jquery.sparkline.min.js" />
+    <Content Include="plugins\timepicker\bootstrap-timepicker.css" />
+    <Content Include="plugins\timepicker\bootstrap-timepicker.js" />
+    <Content Include="plugins\timepicker\bootstrap-timepicker.min.css" />
+    <Content Include="plugins\timepicker\bootstrap-timepicker.min.js" />
+    <Content Include="Profile.aspx" />
+    <Content Include="Projects.aspx" />
+    <Content Include="ProjectService.asmx" />
+    <Content Include="Quotation.aspx" />
+    <Content Include="QuotationService.asmx" />
+    <Content Include="Reports.aspx" />
+    <Content Include="ReportService.asmx" />
+    <Content Include="Roles.aspx" />
+    <Content Include="RoleService.asmx" />
+    <Content Include="scripts\AddCustomer.js" />
+    <Content Include="scripts\AddItem.js" />
+    <Content Include="scripts\AddProject.js" />
+    <Content Include="scripts\Admin.js" />
+    <Content Include="scripts\Common.js" />
+    <Content Include="scripts\Customer.js" />
+    <Content Include="scripts\EditProject.js" />
+    <Content Include="scripts\Enquiries.js" />
+    <Content Include="scripts\Expense.js" />
+    <Content Include="scripts\jquery-1.10.2.min.js" />
+    <Content Include="scripts\jquery-3.2.1.min.js" />
+    <Content Include="scripts\MasterScript.js" />
+    <Content Include="scripts\AddOtherActivity.js" />
+    <Content Include="scripts\Models\ProjectSubTasks.js" />
+    <Content Include="scripts\OtherActivities.js" />
+    <Content Include="scripts\PersonalExpense.js" />
+    <Content Include="scripts\Profile.js" />
+    <Content Include="scripts\Projects.js" />
+    <Content Include="scripts\Reports.js" />
+    <Content Include="scripts\RolePermissions.js" />
+    <Content Include="scripts\Roles.js" />
+    <Content Include="scripts\SaveQuotation.js" />
+    <Content Include="scripts\SiteMaster.js" />
+    <Content Include="scripts\TaskUpdate.js" />
+    <Content Include="scripts\ViewEnquiry.js" />
+    <Content Include="scripts\ViewProject.js" />
+    <Content Include="scripts\ViewQuotation.js" />
+    <Content Include="TaskUpdate.aspx" />
+    <Content Include="UserService.asmx" />
+    <Content Include="ViewCustomer.aspx" />
+    <Content Include="ViewEnquiry.aspx" />
+    <Content Include="ViewProject.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="WebForm1.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddCustomer.aspx.cs">
+      <DependentUpon>AddCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddCustomer.aspx.designer.cs">
+      <DependentUpon>AddCustomer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddEnquiry.aspx.cs">
+      <DependentUpon>AddEnquiry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddEnquiry.aspx.designer.cs">
+      <DependentUpon>AddEnquiry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddOtherActivity.aspx.cs">
+      <DependentUpon>AddOtherActivity.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddOtherActivity.aspx.designer.cs">
+      <DependentUpon>AddOtherActivity.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddProject.aspx.cs">
+      <DependentUpon>AddProject.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddProject.aspx.designer.cs">
+      <DependentUpon>AddProject.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddRole.aspx.cs">
+      <DependentUpon>AddRole.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddRole.aspx.designer.cs">
+      <DependentUpon>AddRole.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Customers.aspx.cs">
+      <DependentUpon>Customers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Customers.aspx.designer.cs">
+      <DependentUpon>Customers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerService.asmx.cs">
+      <DependentUpon>CustomerService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EditProject.aspx.cs">
+      <DependentUpon>EditProject.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditProject.aspx.designer.cs">
+      <DependentUpon>EditProject.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditRole.aspx.cs">
+      <DependentUpon>EditRole.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditRole.aspx.designer.cs">
+      <DependentUpon>EditRole.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Enquiries.aspx.cs">
+      <DependentUpon>Enquiries.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Enquiries.aspx.designer.cs">
+      <DependentUpon>Enquiries.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EnquiryService.asmx.cs">
+      <DependentUpon>EnquiryService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Expense.aspx.cs">
+      <DependentUpon>Expense.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Expense.aspx.designer.cs">
+      <DependentUpon>Expense.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExpenseService.asmx.cs">
+      <DependentUpon>ExpenseService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NotificationService.asmx.cs">
+      <DependentUpon>NotificationService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OtherActivities.aspx.cs">
+      <DependentUpon>OtherActivities.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OtherActivities.aspx.designer.cs">
+      <DependentUpon>OtherActivities.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OtherActivityService.asmx.cs">
+      <DependentUpon>OtherActivityService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PersonalExpense.aspx.cs">
+      <DependentUpon>PersonalExpense.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PersonalExpense.aspx.designer.cs">
+      <DependentUpon>PersonalExpense.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.aspx.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Profile.aspx.designer.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Projects.aspx.cs">
+      <DependentUpon>Projects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Projects.aspx.designer.cs">
+      <DependentUpon>Projects.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectService.asmx.cs">
+      <DependentUpon>ProjectService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quotation.aspx.cs">
+      <DependentUpon>Quotation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Quotation.aspx.designer.cs">
+      <DependentUpon>Quotation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QuotationService.asmx.cs">
+      <DependentUpon>QuotationService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports.aspx.cs">
+      <DependentUpon>Reports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports.aspx.designer.cs">
+      <DependentUpon>Reports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportService.asmx.cs">
+      <DependentUpon>ReportService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Roles.aspx.cs">
+      <DependentUpon>Roles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Roles.aspx.designer.cs">
+      <DependentUpon>Roles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RoleService.asmx.cs">
+      <DependentUpon>RoleService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="TaskUpdate.aspx.cs">
+      <DependentUpon>TaskUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TaskUpdate.aspx.designer.cs">
+      <DependentUpon>TaskUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserService.asmx.cs">
+      <DependentUpon>UserService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ViewCustomer.aspx.cs">
+      <DependentUpon>ViewCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewCustomer.aspx.designer.cs">
+      <DependentUpon>ViewCustomer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewEnquiry.aspx.cs">
+      <DependentUpon>ViewEnquiry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewEnquiry.aspx.designer.cs">
+      <DependentUpon>ViewEnquiry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProject.aspx.cs">
+      <DependentUpon>ViewProject.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewProject.aspx.designer.cs">
+      <DependentUpon>ViewProject.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+    <Content Include="bootstrap\css\bootstrap.css.map" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="plugins\input-mask\phone-codes\phone-be.json" />
+    <Content Include="plugins\input-mask\phone-codes\phone-codes.json" />
+    <None Include="Properties\PublishProfiles\ProjectManagementSystem.pubxml" />
+    <Content Include="role.json" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="BusinessLayer\BusinessLayer.csproj">
+      <Project>{6098066f-0fb0-49b5-af1c-728c66f7fb77}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="Models\Models.csproj">
+      <Project>{3029f8c2-23fc-4fbb-a891-371e0a388078}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Download\" />
+    <Folder Include="Upload\Customer\" />
+    <Folder Include="Upload\Enquiry\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49202/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

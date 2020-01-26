@@ -1,0 +1,28 @@
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\bin\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\bin\Debug\Models.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\obj\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\Models\obj\Debug\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\Models\bin\Debug\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\Models\obj\Debug\Models.pdb

@@ -1,0 +1,32 @@
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Release\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Release\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\bin\Release\Models.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\obj\Release\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\obj\Release\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\DatabaseLayer\obj\Release\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\DatabaseLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\DatabaseLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.csprojAssemblyReference.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.csproj.CoreCompileInputs.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.csproj.CopyComplete
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\DatabaseLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\DatabaseLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\bin\Release\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.csprojAssemblyReference.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.csproj.CopyComplete
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\DatabaseLayer\obj\Release\DatabaseLayer.pdb

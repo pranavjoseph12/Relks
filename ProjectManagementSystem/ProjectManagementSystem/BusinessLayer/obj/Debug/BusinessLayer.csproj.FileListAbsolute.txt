@@ -1,0 +1,63 @@
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\WebAPI\BusinessLayer\bin\Debug\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\ContractProjectEnquiry\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.pdb
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\qbuser\Downloads\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\EPPlus.dll
+E:\ja\jacob\Relk_Old\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\EPPlus.xml
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\EPPlus.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\DatabaseLayer.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Models.pdb
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\EPPlus.xml
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Code\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
